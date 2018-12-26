@@ -23,5 +23,5 @@
 > ```
 > open link using web-browser to compile code
 > ```
-> http://localhost/onlineCompiler/
+> http://localhost/Online-C-and-Cpp-Compiler/
 > ```
